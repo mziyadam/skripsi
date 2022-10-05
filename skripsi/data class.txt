@@ -1,0 +1,7 @@
+resep
+-id String
+-nama String
+-bahan(dan harga) String
+-total harga String
+-porsi
+-Cara membuat
