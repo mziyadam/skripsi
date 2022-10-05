@@ -4,4 +4,5 @@ resep
 -bahan(dan harga) String
 -total harga String
 -porsi
+-gambar
 -Cara membuat
