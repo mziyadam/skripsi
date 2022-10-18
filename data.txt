@@ -1,0 +1,47 @@
+Fitur aplikasi
+-----------------------
+(Tamu):
+- login
+- register
+- reset password
+- liat daftar resep
+- liat rekomendasi resep
+- cari resep
+
+(Mahasiswa Kos):
+- ganti password
+- ganti nama dan email
+- rating & review
+- catatan pribadi
+- add favorit -> setIsSaved
+- remove favorit -> setIsSaved
+
+-----------------------
+Data Classes
+-----------------------
+MahasiswaKos
+-id
+-nama
+-listSaved
+-listCatatanPribadi(list<catatan>)
+
+Resep
+-id
+-nama
+-gambar url
+-harga total
+-estimasi waktu masak
+-list bahan -string(dipisah \n)
+-list harga bahan -string(dipisah \n)
+-cara membuat
+-listReview (list<Review>)
+
+CatatanPribadi
+-idMhs
+-Catatan
+
+Review
+-id
+-namaReviewer
+-Rating
+-Review
