@@ -1,0 +1,14 @@
+1. Register
+2. Login
+3. Ganti Password
+4. Ubah Profil
+5. Reset Password
+6. Menampilkan Daftar Resep
+7. Pencarian Resep
+8. Menampilkan Rekomendasi Resep Berdasarkan Harga
+9. Menampilkan Detail Resep
+10. Menambahkan Rating dan Review
+11. Simpan Resep
+12. Hapus Resep Tersimpan
+13. Tambah Catatan Pribadi pada Resep
+14. Minimum Android 5 Lollipop API 21
